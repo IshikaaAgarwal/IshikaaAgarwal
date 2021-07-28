@@ -2,8 +2,8 @@
 - 👀 I’m interested in learning new stuff
 - 🌱 I’m currently learning beginner level coding
 - 📫 How to reach me 
-      Instagram : @ishikaaaa__ 
       Email : ishika020309@gmail.com
+      Instagram : @ishikaaaa__ 
 
 <!---
 IshikaaAgarwal/IshikaaAgarwal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
