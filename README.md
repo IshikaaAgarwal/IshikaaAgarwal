@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IshikaaAgarwal
-- 👀 I’m interested in learning new stuff
-- 🌱 I’m currently learning beginner level coding
+- 👀 I’m interested in exploring different fields of work
+- 🌱 I’m currently working on my coding skills
 - 📫 How to reach me 
       Email : ishika020309@gmail.com
       Instagram : @ishikaaaa__ 
